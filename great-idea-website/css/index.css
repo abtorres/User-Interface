@@ -64,3 +64,44 @@ h1, h2, h3, h4, h5 {
 }
 
 /* Your code starts here! */
+.head-sec {
+	background: red;
+}
+
+.head-sec-main {
+	background: purple;
+	padding: 50px;
+}
+
+.head-sec-inno {
+	display: inline-block;
+	padding-right: 280px;
+	align-items: center
+}
+
+.head-sec-inno h1 {
+	font-size: 100px;
+	text-align: center;
+	padding-left: 80px
+}
+
+.head-nav {
+	display: inline-block;
+	background: orange;
+	padding: 0 80px;
+}
+
+.head-nav-link {
+	text-decoration: none;
+	background: yellow;
+	padding: 0 30px;
+}
+
+section .head-sec-nav img {
+	background: blue;
+	padding: 0px 0px 0px 200px
+}
+
+.button-style {
+	padding-left: 245px;
+}
