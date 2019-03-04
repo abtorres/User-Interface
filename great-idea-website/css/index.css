@@ -68,6 +68,10 @@ h1, h2, h3, h4, h5 {
 	padding: 50px;
 }
 
+.head-sec {
+	padding-top: 50px;
+}
+
 .head-sec-inno {
 	display: inline-block;
 	padding-right: 280px;
@@ -84,6 +88,15 @@ h1, h2, h3, h4, h5 {
 .head-nav {
 	display: inline-block;
 	padding: 0 80px;
+}
+
+.head-sec-nav {
+	background: lightgreen;
+	padding-bottom: 40px;
+	position: fixed;
+	top: 0;
+	width: 100%;
+	z-index: 1;
 }
 
 .head-nav-link {
