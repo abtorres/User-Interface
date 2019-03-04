@@ -69,7 +69,7 @@ h1, h2, h3, h4, h5 {
 }
 
 .head-sec {
-	padding-top: 50px;
+	padding-top: 70px;
 }
 
 .head-sec-inno {
@@ -79,10 +79,10 @@ h1, h2, h3, h4, h5 {
 }
 
 .head-sec-inno h1 {
-	font-size: 90px;
+	font-size: 70px;
 	text-align: center;
 	padding-left: 150px;
-	padding-top: 20px
+	font-family: 'Permanent Marker', cursive;
 }
 
 .head-nav {
